@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+venv_new/
+
+# IDE
+.idea/
+
+# Model and data files (large)
+*.pb
+*.pbtxt
+*.jpg
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
